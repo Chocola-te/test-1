@@ -56,4 +56,4 @@ Public static void Main(String[] args) {
 ---
 이미지 테스트
 
-![]()
+![쪼꼬렛](./choco2.png)
