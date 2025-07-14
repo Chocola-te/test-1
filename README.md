@@ -61,6 +61,10 @@ Public static void Main(String[] args) {
 [구글!](https://www.google.com "와! 구글! 아시는구나!")
 
 ---
-이미지 테스트
+업로드 이미지 테스트
 
-![쪼꼬렛](./choco2.png)
+![쪼꼬렛1](./choco2.png)
+
+---
+온라인 이미지 테스트
+![쪼꼬렛2](https://dimg.donga.com/wps/NEWS/IMAGE/2023/05/26/119497473.2.jpg)
