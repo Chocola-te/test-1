@@ -38,7 +38,7 @@ Hello! introduce my choco
 
 ---
 여러줄 주석 테스트
-```
+```java
 Public static void Main(String[] args) {
   for(int i = 0; i < 10; i++) {
     ...
